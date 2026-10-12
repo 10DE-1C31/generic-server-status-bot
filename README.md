@@ -45,3 +45,11 @@ Note: Some features are not available depending on system configuration, and the
 `-disk` Disk information
 
 ## Installation
+1. Install node.js with
+   `npm install`
+2. Clone the repository
+3. Register the bot with Discord 
+   https://discord.com/developers
+4.  Create a file named `.env` with `DISCORD_TOKEN=` followed by the token you got from Discord Developer Portal
+5. Open your terminal in the cloned repo folder
+6. Run the bot with `node index.js`
